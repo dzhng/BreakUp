@@ -20,7 +20,7 @@ _ie_frame.style.width = "640px";
 _ie_frame.style.height = "280px"; 
 _ie_frame.frameBorder = "0";
 _ie_frame.scrolling = "0";
-
+_ie_frame.style.marginBottom = "-5px";
 
 _ie_div.style.position = "absolute";
 _ie_div.style.top = "20%";
