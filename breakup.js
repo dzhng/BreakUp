@@ -25,7 +25,6 @@ _ie_frame.scrolling = "0";
 _ie_div.style.position = "absolute";
 _ie_div.style.top = "20%";
 _ie_div.style.left = "26%";
-_ie_div.style.width = "auto";
 _ie_div.style.marginLeft = "none";
 _ie_div.style.background = "white";
 _ie_div.style.border = "5px solid";
