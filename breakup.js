@@ -19,7 +19,7 @@ _ie_frame.setAttribute("src", "breakup.html");
 _ie_frame.style.width = "640px"; 
 _ie_frame.style.height = "280px"; 
 _ie_frame.frameBorder = "0";
-_ie_frame.scrolling = "0";
+_ie_frame.scrolling = "none";
 _ie_frame.style.marginBottom = "-5px";
 
 _ie_div.style.position = "absolute";
