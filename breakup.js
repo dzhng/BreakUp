@@ -9,7 +9,7 @@ if(isMozilla) {console.log("Mozilla browser detected");}
 if(!isWebKit && !isChrome && !isMozilla) {	// check support
 	// unsupported browser, throw error
 	console.error("Browser unsupported");
-	alert("Sorry, your browser is not supported. Please switch to Firefox, Chrome, or Safari");
+	//alert("Sorry, your browser is not supported. Please switch to Firefox, Chrome, or Safari");
 
 	var link = document.createElement("link");
 	link.setAttribute("rel","stylesheet");
